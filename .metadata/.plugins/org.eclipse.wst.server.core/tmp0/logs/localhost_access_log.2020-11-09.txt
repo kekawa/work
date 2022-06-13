@@ -1,0 +1,2 @@
+185.239.242.196 - - [09/Nov/2020:00:09:28 +0900] "GET /config/getuser?index=0 HTTP/1.1" 404 727
+178.147.91.211 - - [09/Nov/2020:00:22:29 +0900] "GET /currentsetting.htm HTTP/1.1" 404 861

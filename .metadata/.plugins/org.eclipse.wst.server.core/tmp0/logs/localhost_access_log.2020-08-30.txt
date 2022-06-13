@@ -1,0 +1,7 @@
+127.0.0.1 - - [30/Aug/2020:15:47:47 +0900] "GET / HTTP/1.1" 404 843
+0:0:0:0:0:0:0:1 - - [30/Aug/2020:15:47:50 +0900] "GET /GolfSchool/ HTTP/1.1" 200 748
+0:0:0:0:0:0:0:1 - - [30/Aug/2020:15:47:50 +0900] "GET /GolfSchool/css/golfschool.css HTTP/1.1" 200 937
+0:0:0:0:0:0:0:1 - - [30/Aug/2020:15:47:50 +0900] "GET /GolfSchool/images/pentomino_logo.png HTTP/1.1" 404 887
+127.0.0.1 - - [30/Aug/2020:15:51:29 +0900] "GET / HTTP/1.1" 404 843
+0:0:0:0:0:0:0:1 - - [30/Aug/2020:15:51:29 +0900] "GET /GolfSchool/WEB-INF/classes/testDBProj/ProductGet.java HTTP/1.1" 404 808
+0:0:0:0:0:0:0:1 - - [30/Aug/2020:15:52:02 +0900] "GET /GolfSchool/WEB-INF/classes/testDBProj/ProductGet.java HTTP/1.1" 404 808

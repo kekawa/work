@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ProductGetSrv.java&apos; to &apos;GolfSchool/src/testDBProj&apos;&#x0D;&#x0A;- 元のプロジェクト: &apos;SampleDB&apos;&#x0D;&#x0A;- 宛先要素: &apos;GolfSchool/src/testDBProj&apos;&#x0D;&#x0A;- オリジナル要素: &apos;dbconnection.ProductGetSrv.java&apos;" description="コンパイル単位をコピー" destination="=GolfSchool/src&lt;testDBProj" element1="/src&lt;dbconnection{ProductGetSrv.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1604209555719" units="1" version="1.0"/>
+</session>

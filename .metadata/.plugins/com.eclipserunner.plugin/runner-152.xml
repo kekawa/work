@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runner version="1.0.0">
+    <category expanded="true" name="カテゴリーなし">
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Abc"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Abc3"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="ArgMethod"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="ArrayList"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="ClassForName"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="ClassGetClass"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="ClassList"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Implements"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (1)"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="ProductGet"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="ProductGet (1)"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Test"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="ThisSample"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="ThisSampleClass"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="TimezoneDump"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="_frontinsert.jsp"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="_frontinsert.jsp (1)"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="sampleArrayList"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="ローカルホスト の Tomcat9 (Java11)"/>
+    </category>
+</runner>

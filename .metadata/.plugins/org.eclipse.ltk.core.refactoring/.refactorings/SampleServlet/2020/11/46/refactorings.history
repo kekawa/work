@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;tool&apos; to &apos;WebContent&apos;&#x0D;&#x0A;- 元のプロジェクト: &apos;SampleServlet&apos;&#x0D;&#x0A;- 宛先要素: &apos;WebContent&apos;&#x0D;&#x0A;- オリジナル要素: &apos;tool&apos;" description="フォルダーをコピー" element1="WebContent/tool" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1605134989382" target="/SampleDB/WebContent" units="0" version="1.0"/>
+</session>

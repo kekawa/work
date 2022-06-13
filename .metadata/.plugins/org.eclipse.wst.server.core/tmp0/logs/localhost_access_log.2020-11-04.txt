@@ -1,0 +1,13 @@
+127.0.0.1 - - [04/Nov/2020:08:02:13 +0900] "GET / HTTP/1.1" 404 843
+0:0:0:0:0:0:0:1 - - [04/Nov/2020:08:02:18 +0900] "GET /GolfSchool/test.jsp HTTP/1.1" 200 748
+0:0:0:0:0:0:0:1 - - [04/Nov/2020:08:02:18 +0900] "GET /GolfSchool/css/test.css HTTP/1.1" 200 261
+0:0:0:0:0:0:0:1 - - [04/Nov/2020:08:02:18 +0900] "GET /GolfSchool/js/script.js HTTP/1.1" 200 362
+0:0:0:0:0:0:0:1 - - [04/Nov/2020:08:02:18 +0900] "GET /GolfSchool/images/stripe.png HTTP/1.1" 404 879
+0:0:0:0:0:0:0:1 - - [04/Nov/2020:08:02:46 +0900] "GET /GolfSchool/test.jsp HTTP/1.1" 200 701
+0:0:0:0:0:0:0:1 - - [04/Nov/2020:08:02:46 +0900] "GET /GolfSchool/css/test.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [04/Nov/2020:08:02:46 +0900] "GET /GolfSchool/images/stripe.png HTTP/1.1" 404 879
+0:0:0:0:0:0:0:1 - - [04/Nov/2020:08:02:46 +0900] "GET /GolfSchool/js/script.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [04/Nov/2020:08:02:47 +0900] "GET /GolfSchool/test.jsp HTTP/1.1" 200 701
+0:0:0:0:0:0:0:1 - - [04/Nov/2020:08:02:47 +0900] "GET /GolfSchool/css/test.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [04/Nov/2020:08:02:47 +0900] "GET /GolfSchool/js/script.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [04/Nov/2020:08:02:47 +0900] "GET /GolfSchool/images/stripe.png HTTP/1.1" 404 879

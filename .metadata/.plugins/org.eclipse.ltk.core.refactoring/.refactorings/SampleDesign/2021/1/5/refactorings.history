@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="6 個の要素を &apos;SampleDesign/src/iterator&apos; に移動&#x0D;&#x0A;- 元のプロジェクト: &apos;SampleDesign&apos;&#x0D;&#x0A;- 宛先要素: &apos;SampleDesign/src/iterator&apos;&#x0D;&#x0A;- オリジナル要素:&#x0D;&#x0A;     BookShelfIterator.java&#x0D;&#x0A;     Aggregate.java&#x0D;&#x0A;     Iterator.java&#x0D;&#x0A;     Book.java&#x0D;&#x0A;     BookShelf.java&#x0D;&#x0A;     Main.java&#x0D;&#x0A;- リファクタリングされた要素の参照を更新" description="コンパイル単位を移動" destination="/src&lt;iterator" element1="/src&lt;{BookShelfIterator.java" element2="/src&lt;{Aggregate.java" element3="/src&lt;{Iterator.java" element4="/src&lt;{Book.java" element5="/src&lt;{BookShelf.java" element6="/src&lt;{Main.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1611449649775" units="6" version="1.0"/>
+</session>

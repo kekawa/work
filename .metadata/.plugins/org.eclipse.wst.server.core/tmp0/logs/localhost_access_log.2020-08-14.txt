@@ -1,0 +1,5 @@
+127.0.0.1 - - [14/Aug/2020:20:08:33 +0900] "GET / HTTP/1.1" 404 843
+0:0:0:0:0:0:0:1 - - [14/Aug/2020:20:08:35 +0900] "GET /SampleServlet/shopSelectForm.html HTTP/1.1" 200 1371
+0:0:0:0:0:0:0:1 - - [14/Aug/2020:20:09:11 +0900] "POST /SampleServlet/ShopSelectServlet HTTP/1.1" 200 399
+0:0:0:0:0:0:0:1 - - [14/Aug/2020:20:09:29 +0900] "POST /SampleServlet/ShopSelectServlet HTTP/1.1" 200 391
+0:0:0:0:0:0:0:1 - - [14/Aug/2020:20:09:39 +0900] "POST /SampleServlet/ShopSelectServlet HTTP/1.1" 200 396

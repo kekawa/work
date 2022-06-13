@@ -1,0 +1,7 @@
+<classpath>
+  <container id="SampleDB!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="C:/pleiades/workspace/SampleDB/WebContent/WEB-INF/lib/mysql-connector-java-8.0.21.jar">
+      <source-attachment-path>C:/Users/KEN/AppData/Local/Temp/.org.sf.feeling.decompiler1614479370414/source/mysql-connector-java-8.0.21-sources-1614481014866.jar</source-attachment-path>
+    </entry>
+  </container>
+</classpath>

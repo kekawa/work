@@ -1,0 +1,22 @@
+package dao;
+
+import java.sql.Connection;
+
+import javax.naming.InitialContext;
+import javax.servlet.annotation.WebServlet;
+import javax.sql.DataSource;
+
+
+@WebServlet(urlPatterns= {"/Search"})
+public class DAO {
+	static DataSource ds;
+
+	public Connection getConnection() throws Exception {
+		if (ds==null) {
+			InitialContext ic = new InitialContext();
+			DataSource ds = (DataSource)ic.lookup(
+				"java:/comp/env/jdbc/SampleDB");
+		}
+		return ds.getConnection();
+	}
+}

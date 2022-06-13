@@ -1,0 +1,34 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+	"http://www.w3.org/TR/html4/loose.dtd">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>買い物ユーザフォーム</title>
+</head>
+
+<p>購入数を選択してください</p>
+<form action="ShopSelectServlet" method="POST">
+<select name="count">
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+</select>
+
+<p>購入方法を選択してください</p>
+<input type="radio" name="payment" value="カード" checked>カード
+<input type="radio" name="payment" value="代金引換" checked>代金引換
+<input type="radio" name="payment" value="銀行振込" checked>銀行振込
+<input type="radio" name="payment" value="コンビニ支払い" checked>コンビニ支払い
+
+<p>商品のご感想をお寄せください</p>
+<p><textarea name="review" cols="30" rows="5">商品名：</textarea></p>
+
+
+<p>お買い物情報を受取るジャンルをお選びください</p>
+<p><input type="checkbox" name="mail" value="家電">家電</p>
+<p><input type="checkbox" name="mail" value="時計">時計</p>
+<p><input type="checkbox" name="mail" value="書籍">書籍</p>
+<p><input type="submit" value="確定"></p>
+</form>
